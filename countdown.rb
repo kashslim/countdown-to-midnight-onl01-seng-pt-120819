@@ -1,7 +1,7 @@
-def countdown(Int)
- while Int > 0 do
+def countdown(int)
+ while int > 0 do
   puts " #SECOND(S)"
-  Int=1
+  int-=1
  end
  return "HAPPY NEW YEAR!"
 end
